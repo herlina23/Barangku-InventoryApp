@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Barangku</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <!-- Units -->
+    <string name="item">item</string>
+    <string name="milligram">mg</string>
+    <string name="gram">g</string>
+    <string name="kilogram">kg</string>
+    <string name="milliliter">mL</string>
+    <string name="liter">L</string>
+
+
+    <!-- Strings for delete all confirmation -->
+    <string name="delete_all_dialog_title">Delete semua item?</string>
+    <string name="delete_all_dialog_instruct">konfirmasi, ketikkan \"%1 Rp.s\" pada field dibawah.</string>
+    <string name="confirm_delete_keyword">hapus</string>
+
+    <string name="use_food_dialog_title">Pakai Stok?</string>
+
+    <!-- Value labels -->
+    <string name="label_amount">Jumlah</string>
+    <string name="label_expiration">Kadaluarsa</string>
+    <string name="label_store">Toko</string>
+    <string name="label_price">Total Harga</string>
+    <string name="label_photo">Foto</string>
+
+    <!-- Value hints -->
+    <string name="item_name_hint">Nama Item</string>
+    <string name="item_amount_hint">Jumlah</string>
+    <string name="item_expiration_hint">Tanggal</string>
+    <string name="item_store_hint">nama toko</string>
+    <string name="item_price_hint">harga</string>
+
+    <!-- Strings for use food dialog -->
+    <string name="action_use_food_button">kurangi stok</string>
+    <string name="action_use_food_cancel">Batal</string>
+    <string name="alert_not_enough_food">penggunaan stok tidak boleh lebih dari persediaan!</string>
+
+    <!-- Button text -->
+    <string name="button_photo_change">Ganti Foto</string>
+    <string name="button_photo_add">Tambah Foto</string>
+
+    <!-- Value labels for view activity -->
+    <string name="view_label_expires">Kadaluarsa</string>
+    <string name="view_label_price">Harga</string>
+    <string name="view_label_amount">Jumlah</string>
+
+</resources>
